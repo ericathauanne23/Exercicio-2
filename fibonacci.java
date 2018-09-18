@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class fibonacci {
     public static void main(String[] args) {
        static long fibo(int n) {
@@ -16,8 +15,4 @@ public class fibonacci {
   
     }
   
-}
-}
-
-
 }
